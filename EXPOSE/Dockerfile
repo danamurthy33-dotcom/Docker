@@ -1,2 +1,2 @@
-FROM CMD
+FROM cmd
 EXPOSE 80/tcp
