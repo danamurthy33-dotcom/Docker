@@ -1,0 +1,2 @@
+FROM CMD
+EXPOSE 80/tcp
