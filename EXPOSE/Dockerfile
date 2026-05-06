@@ -1,2 +1,2 @@
-COPY CMD/ /EXPOSE
+FROM cmd
 EXPOSE 80/tcp
