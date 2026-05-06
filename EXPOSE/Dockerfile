@@ -1,2 +1,2 @@
-cp CMD/
+cp CMD/ /EXPOSE
 EXPOSE 80/tcp
